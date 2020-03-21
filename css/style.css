@@ -1136,17 +1136,18 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/banner.jpeg);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner2.png);
+  background-image: url(../img/banner/banner2.jpeg);
 }
 
 /* line 7, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_slider.scss */
 .slider_bg_3 {
-  background-image: url(../img/banner/banner3.png);
+  background-image: url(../img/banner/banner3.jpeg);
+
 }
 
 /* line 11, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_slider.scss */
@@ -1768,25 +1769,25 @@ h3 {
 /* line 20, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_team.scss */
 .team_area .single_team_member .member_info {
   background: #fdf9f6;
-  padding: 36px 0 35px 0;
+  /* padding: 36px 0 35px 0; */
 }
 
 /* line 23, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_team.scss */
 .team_area .single_team_member .member_info h3 {
-  font-size: 25px;
-  font-weight: 400;
+  /* font-size: 25px; */
+  /* font-weight: 400; */
   color: #222222;
-  margin-bottom: 0;
-  margin-bottom: 6px;
+  /* margin-bottom: 0; */
+  /* margin-bottom: 6px; */
 }
 
 /* line 30, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_team.scss */
 .team_area .single_team_member .member_info p {
-  font-size: 18px;
-  font-weight: 400;
+  /* font-size: 18px; */
+  /* font-weight: 400; */
   font-family: "Lato", sans-serif;
   color: #eb592d;
-  margin-bottom: 0;
+  /* margin-bottom: 0; */
 }
 
 /* line 40, ../../Arafath/CL/january 2020/238. Barber/HTML/scss/_team.scss */
